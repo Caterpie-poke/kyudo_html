@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="text_to_html:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/text_to_html_jar</output-path>
+    <root id="archive" name="text_to_html.jar">
+      <element id="module-output" name="text_to_html" />
+    </root>
+  </artifact>
+</component>

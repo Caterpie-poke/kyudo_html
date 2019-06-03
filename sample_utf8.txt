@@ -1,0 +1,28 @@
+<info>
+    文字化けチェックutf8
+    2018/1/1
+    晴れ
+    研究室
+    チーム1
+    チーム2
+</info>
+
+<multi>
+    <player>
+        ad,ob1,1111
+        ad,2,1101
+        ac,3,1110
+    </player>
+    <reserve>
+    </reserve>
+</multi>
+<indiv>
+    <player>
+        ad,1,1111
+        ad,2,1101
+        ac,3,1110
+    </player>
+    <reserve>
+    </reserve>
+
+</indiv>
